@@ -1,0 +1,3 @@
+- 👋 Hi, we're @team-magmacube
+-  We're focusing on creating faithful recreatation of popular minecraft mods for new versions.
+-  Our website is https://www.team-magma.com
